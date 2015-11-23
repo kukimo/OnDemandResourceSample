@@ -1,0 +1,2 @@
+# OnDemandResourceSample
+オンデマンドリソースのサンプル
